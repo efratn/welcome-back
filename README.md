@@ -1,3 +1,5 @@
-# welcome-back
+# welcome back
 A first project
-ok
+
+
+First project on github. this sounds a bit like yiddish and looks like fun. 
