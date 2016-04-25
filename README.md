@@ -2,4 +2,4 @@
 A first project
 
 
-First project on github. this sounds a bit like yiddish and looks like fun. 
+First project on github. this sounds a bit like yiddish and looks like fun. OK
